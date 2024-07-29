@@ -12,6 +12,13 @@ Project apply the following discounts:
 3. 5% discount for customers with more than 2 years of registration
 4. $5 discount for every $100 spent
 
+## Applied Design Paterns:
+1. MVC Design Pattern
+2. Template Design Pattern
+3. Proxy Design Pattern
+4. Facade Design Pattern
+5. Factory Design Pattern
+
 
 ## Building the Project
 
